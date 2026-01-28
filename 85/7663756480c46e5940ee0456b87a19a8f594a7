@@ -1,0 +1,52 @@
+src/mdm/agents/droid.rs
+  d02f5b60be44ceac 17
+src/mdm/agents/mod.rs
+  95aa0871f5630a1b 3,10
+  9be8f41677d31d93 25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.37",
+  "base_commit_sha": "857663756480c46e5940ee0456b87a19a8f594a7",
+  "prompts": {
+    "95aa0871f5630a1b": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "droid-1769574899824",
+        "model": "unknown"
+      },
+      "human_author": "dragove <dragove@qq.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 0,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "9be8f41677d31d93": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "droid-1769574899912",
+        "model": "unknown"
+      },
+      "human_author": "dragove <dragove@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 0,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "d02f5b60be44ceac": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "droid-1769576760301",
+        "model": "unknown"
+      },
+      "human_author": "dragove <dragove@qq.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 8,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
