@@ -1,0 +1,79 @@
+src/mdm/agents/droid.rs
+  77db579227bac69e 110,114
+  c096fbda3e89e54b 363,367
+  0c630c630b5d80f8 327,338
+  27dfc310ee55ac80 221-227
+  24ac7c9566726851 383,394
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.37",
+  "base_commit_sha": "de0c96c6193e75457aa4a302ecaca20a0f251260",
+  "prompts": {
+    "0c630c630b5d80f8": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "droid-1769578835669",
+        "model": "unknown"
+      },
+      "human_author": "dragove <dragove@qq.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "24ac7c9566726851": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "droid-1769578835831",
+        "model": "unknown"
+      },
+      "human_author": "dragove <dragove@qq.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "27dfc310ee55ac80": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "droid-1769578835396",
+        "model": "unknown"
+      },
+      "human_author": "dragove <dragove@qq.com>",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 0,
+      "accepted_lines": 7,
+      "overriden_lines": 0
+    },
+    "77db579227bac69e": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "droid-1769578835271",
+        "model": "unknown"
+      },
+      "human_author": "dragove <dragove@qq.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "c096fbda3e89e54b": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "droid-1769578835540",
+        "model": "unknown"
+      },
+      "human_author": "dragove <dragove@qq.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
